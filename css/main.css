@@ -1,5 +1,10 @@
+body{
+	background: url(../img/dormir1.jpg) ;
+	background-size: contain;
+}
 .container{
 	margin:0 auto;
 	font-family: Garamond;
-	margin-left:30% 
+	margin-top:10%; 
+	background: white
 }
