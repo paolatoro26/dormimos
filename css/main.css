@@ -1,10 +1,18 @@
 body{
 	background: url(../img/dormir1.jpg) ;
-	background-size: contain;
+	background-size: cover;
 }
 .container{
 	margin:0 auto;
 	font-family: Garamond;
 	margin-top:10%; 
-	background: white
+	background: rgba(314,275,25,.5);
 }
+#salida{
+	font-size: 30px;
+	color:white;
+	background: black;
+	width: 50px;
+	margin: 0 auto
+}
+
